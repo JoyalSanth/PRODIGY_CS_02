@@ -1,0 +1,9 @@
+```gitignore
+# Ignore secret key
+secret.key
+
+# Ignore cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.log
